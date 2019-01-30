@@ -91,3 +91,5 @@ gems:
   - jekyll-admin
 
 exclude:            [vendor]
+
+theme: jekyll-theme-time-machine
